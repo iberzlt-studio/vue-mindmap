@@ -1,0 +1,26 @@
+{
+  "name": "@iberzlt/vue-mindmap",
+  "version": "0.0.4",
+  "description": "mind map template for vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iberzlt-studio/vue-mindmap.git"
+  },
+  "author": "y.takano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iberzlt-studio/vue-mindmap/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/iberzlt-studio/vue-mindmap#readme",
+  "dependencies": {
+    "vue": "^3.2.36",
+    "vue-router": "^4.0.13"
+  }
+}
