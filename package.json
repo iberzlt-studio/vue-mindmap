@@ -1,6 +1,6 @@
 {
   "name": "@iberzlt/vue-mindmap",
-  "version": "0.0.4",
+  "version": "0.0.0",
   "description": "mind map template for vue",
   "main": "index.js",
   "scripts": {
